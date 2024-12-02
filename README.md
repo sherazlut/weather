@@ -4,3 +4,6 @@ Upon opening of the website, you can search your desired city by entering its na
 The city's name alongwith current date with temperature is shown with humidity and windspeed of the respective city
 A 4 days weather forecast is also shown along with the date
 Openweather API has been used in the Javascript where the data is fetched.
+
+This website can be accessed throught the following link
+https://weatherlut.netlify.app/
